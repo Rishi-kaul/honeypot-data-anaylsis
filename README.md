@@ -21,6 +21,7 @@ This project provides a real-time dashboard for monitoring security logs, visual
 - **Data Visualization**: Recharts
 - **State Management**: React Hooks (useState, useEffect)
 - **API**: Express.js (Backend for security logs)
+![image](https://github.com/user-attachments/assets/ab5143b6-199c-41ef-a543-16992eaac2ce)
 
 ## Installation
 1. Clone the repository:
